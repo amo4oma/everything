@@ -1,0 +1,12 @@
+.new {
+	font-size-adjust: 20px;
+	align-content: left;
+
+	color: green;
+}
+img{
+	align-content: right;
+	flex-direction: : center;
+	width: 350px;
+	height: 350px;
+}
